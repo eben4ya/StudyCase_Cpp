@@ -1,0 +1,9 @@
+{
+  "editor.fontSize": 18,
+  "terminal.integrated.fontSize": 15,
+  "window.zoomLevel": 0,
+  "files.associations": {
+    ".env*": "dotenv",
+    "iostream": "cpp"
+  }
+}
